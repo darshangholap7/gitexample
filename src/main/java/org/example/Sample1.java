@@ -3,5 +3,7 @@ package org.example;
 public class Sample1 {
     public static void main(String[] args) {
         System.out.println("adding first line");
+        System.out.println("feature branch");
+
     }
 }
