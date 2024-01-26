@@ -5,6 +5,10 @@ public class Sample1 {
         System.out.println("adding first line");
 
 
+
         System.out.println("master");
+        System.out.println("feature branch");
+
+
     }
 }
