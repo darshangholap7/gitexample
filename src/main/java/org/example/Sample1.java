@@ -8,7 +8,7 @@ public class Sample1 {
 
         System.out.println("master");
         System.out.println("feature branch");
-
+        System.out.println("adding");
 
     }
 }
